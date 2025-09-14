@@ -301,5 +301,3 @@ If you’re dealing with frequently updated data, this approach is worth conside
 ---
 
 **Article written by David Aslanyan**
-
-```
