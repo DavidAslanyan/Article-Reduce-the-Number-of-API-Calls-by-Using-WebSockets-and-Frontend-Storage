@@ -1,4 +1,4 @@
-# Article-Reduce-the-Number-of-API-Calls-by-Using-WebSockets-and-Frontend-Storage
+# Reduce-the-Number-of-API-Calls-by-Using-WebSockets-and-Frontend-Storage
 How I Reduce the Number of API Calls by Using WebSockets and Frontend Storage
 
 ![Alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*s-m16PA0BFJIjhQg.jpeg)
