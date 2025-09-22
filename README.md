@@ -3,7 +3,6 @@ How I Reduce the Number of API Calls by Using WebSockets and Frontend Storage
 
 ![Alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*s-m16PA0BFJIjhQg.jpeg)
 
-````markdown
 # Optimizing API Calls with WebSockets
 
 It doesn’t matter if you are a frontend or a backend developer; we all use APIs in our applications.  
