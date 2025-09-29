@@ -11,7 +11,7 @@ APIs (Application Programming Interfaces) are the core mechanisms that handle co
 Because of this, it’s essential for any developer to understand not only how APIs work, but also how to **optimize API calls** to make them faster, more efficient, and more scalable.
 
 ---
-
+  
 ## The Problem I Faced
 
 While developing my full-stack side project, I needed to retrieve the user from the backend.  
